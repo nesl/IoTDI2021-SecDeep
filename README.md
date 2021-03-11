@@ -4,9 +4,13 @@ There are total of 5 components you need to have before you can replicate
 the results of SecDeep.
 
 https://github.com/nesl/arm-secure-nn.git
+
 https://github.com/nesl/arm-nn-examples.git
+
 https://github.com/nesl/hikey960-3.5.0.git
+
 https://github.com/nesl/arm-nn-secure-library.git
+
 https://github.com/nesl/llvm-project
 
 Make sure you installed all the required libraries and tools before compiling them.
